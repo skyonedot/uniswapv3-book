@@ -61,7 +61,7 @@ Last thing to note here is that Uniswap uses [Q64.96 number](https://en.wikipedi
 
 $$\sqrt{P_c} = 5602277097478614198912276234240$$
 
-$$\sqrt{P_l} = 5314786713428871004159001755648$$
+$$\sqrt{P_l} = 5341294542274603406682713227264$$
 
 $$\sqrt{P_u} = 5875717789736564987741329162240$$
 
